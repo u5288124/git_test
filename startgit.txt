@@ -1,6 +1,2 @@
-kwang kakkk
-k
-
-hello world
-
-PROTECT ORIGIN
+def kwang:
+	return '...'
