@@ -9,3 +9,7 @@ k
 
 hello world
 
+function Bebe()
+{
+	return me
+}
