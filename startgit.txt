@@ -1,2 +1,20 @@
+
 def kwang:
 	return '...'
+
+HEAD
+fff
+
+
+tester 
+
+kwang kakkk
+k
+
+hello world
+
+function Bebe()
+{
+	return me
+}
+
