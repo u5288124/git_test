@@ -29,3 +29,10 @@ function Bebe()
 	
 	return me
 }
+
+function inNewbranch()
+{
+   computer_window10
+}
+
+
